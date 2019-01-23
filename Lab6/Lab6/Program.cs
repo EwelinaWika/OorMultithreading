@@ -19,6 +19,7 @@ namespace Lab6
             Console.WriteLine("Teraz dziala druga operacja na drugim watku");
             _workerEvent.WaitOne();
             Console.WriteLine("Druga operacja zakonczona.");
+            Console.ReadKey();
         }
 
         private static AutoResetEvent _workerEvent = new AutoResetEvent(false);

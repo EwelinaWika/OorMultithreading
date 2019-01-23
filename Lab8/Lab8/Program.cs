@@ -16,6 +16,7 @@ namespace Lab8
             Console.WriteLine("Obie wykonane.");
             _countdown.Dispose();
             Console.ReadKey();
+            Console.ReadKey();
         }
 
         static CountdownEvent _countdown = new CountdownEvent(2);

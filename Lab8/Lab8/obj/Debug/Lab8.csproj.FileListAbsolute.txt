@@ -4,3 +4,10 @@ C:\Users\Ewelina\source\repos\Lab8\Lab8\bin\Debug\Lab8.pdb
 C:\Users\Ewelina\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
 C:\Users\Ewelina\source\repos\Lab8\Lab8\obj\Debug\Lab8.exe
 C:\Users\Ewelina\source\repos\Lab8\Lab8\obj\Debug\Lab8.pdb
+C:\multithreading\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\multithreading\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\multithreading\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\multithreading\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\multithreading\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\multithreading\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\multithreading\Lab8\Lab8\obj\Debug\Lab8.pdb

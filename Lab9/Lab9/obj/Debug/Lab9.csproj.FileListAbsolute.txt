@@ -4,3 +4,10 @@ C:\Users\Ewelina\source\repos\Lab9\Lab9\bin\Debug\Lab9.pdb
 C:\Users\Ewelina\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
 C:\Users\Ewelina\source\repos\Lab9\Lab9\obj\Debug\Lab9.exe
 C:\Users\Ewelina\source\repos\Lab9\Lab9\obj\Debug\Lab9.pdb
+C:\multithreading\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\multithreading\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\multithreading\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\multithreading\Lab9\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\multithreading\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\multithreading\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\multithreading\Lab9\Lab9\obj\Debug\Lab9.pdb

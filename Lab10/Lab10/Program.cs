@@ -10,7 +10,7 @@ namespace Lab10
             var t1 = new Thread(UserModeWait);
             var t2 = new Thread(HybridSpinWait);
 
-            Console.WriteLine("Uruchamianie trybu uzutkownika");
+            Console.WriteLine("Uruchamianie trybu uzytkownika");
             t1.Start();
             Thread.Sleep(20);
             _isCompleted = true;
@@ -20,6 +20,7 @@ namespace Lab10
             t2.Start();
             Thread.Sleep(5);
             _isCompleted = true;
+            Console.ReadKey();
         }
 
         static volatile bool _isCompleted = false;

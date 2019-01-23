@@ -12,6 +12,7 @@ namespace Lab9
 
             t1.Start();
             t2.Start();
+            Console.ReadKey();
         }
 
         static Barrier _barrier = new Barrier(2,

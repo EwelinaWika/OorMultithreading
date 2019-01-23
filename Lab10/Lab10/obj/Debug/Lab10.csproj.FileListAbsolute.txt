@@ -1,0 +1,7 @@
+C:\multithreading\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\multithreading\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\multithreading\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\multithreading\Lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+C:\multithreading\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\multithreading\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\multithreading\Lab10\Lab10\obj\Debug\Lab10.pdb

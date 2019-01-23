@@ -25,6 +25,7 @@ namespace Lab7
             Thread.Sleep(TimeSpan.FromSeconds(2));
             Console.WriteLine("Zamkniete");
             _mainEvent.Reset();
+            Console.ReadKey();
         }
 
         static void TravelThroughGates(string threadName, int seconds)

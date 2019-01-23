@@ -14,6 +14,7 @@ namespace Lab5
                 var t = new Thread(() => AccessDatabase(threadName, secondsToWait));
                 t.Start();
             }
+            Console.ReadKey();
         }
 
         static SemaphoreSlim _semaphore = new SemaphoreSlim(4);

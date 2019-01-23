@@ -4,3 +4,10 @@ C:\Users\Ewelina\source\repos\Lab6\Lab6\bin\Debug\Lab6.pdb
 C:\Users\Ewelina\source\repos\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
 C:\Users\Ewelina\source\repos\Lab6\Lab6\obj\Debug\Lab6.exe
 C:\Users\Ewelina\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\multithreading\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\multithreading\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\multithreading\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\multithreading\Lab6\Lab6\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\multithreading\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\multithreading\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\multithreading\Lab6\Lab6\obj\Debug\Lab6.pdb

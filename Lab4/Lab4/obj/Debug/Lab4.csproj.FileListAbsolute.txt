@@ -5,3 +5,10 @@ C:\Users\Ewelina\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.c
 C:\Users\Ewelina\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
 C:\Users\Ewelina\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
 C:\Users\Ewelina\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\multithreading\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\multithreading\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\multithreading\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\multithreading\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\multithreading\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\multithreading\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\multithreading\Lab4\Lab4\obj\Debug\Lab4.pdb
